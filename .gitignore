@@ -1,0 +1,8 @@
+# Infer output
+infer-out/
+
+# Java class files
+*.class
+
+# C compiled files
+a.out
